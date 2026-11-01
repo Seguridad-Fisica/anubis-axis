@@ -1,0 +1,46 @@
+# Python and MicroPython bytecode
+__pycache__/
+*.py[cod]
+*.mpy
+
+# Local Python environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+.secrets/
+secrets.local.json
+secrets.local.py
+id_rsa
+id_ed25519
+*.p12
+*.pfx
+*_private.pem
+
+# Local configuration overrides
+config.local.json
+config.local.py
+
+# Test, lint, and build artifacts
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+
+# Logs
+*.log
+
+# Editors and operating systems
+.idea/workspace.xml
+.idea/shelf/
+.DS_Store
+Thumbs.db
+Desktop.ini

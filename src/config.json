@@ -1,0 +1,39 @@
+{
+    "default_language": "en",
+    "ui": {
+        "colors": {
+            "dark_theme": {
+                "on_background": "#FFFFFF",
+                "warning": "#FF0000",
+                "secondary_shadow": "#1C0C00",
+                "background": "#000000",
+                "primary_shadow": "#00111E",
+                "primary": "#0091FF",
+                "secondary": "#EE6600",
+                "text_title": "#F6F8F8",
+                "text_body": "#AEAFAF",
+                "on_secondary": "#000000",
+                "shadow": "#181818",
+                "shadow_2": "#3F3F3F",
+                "on_primary": "#FFFFFF"
+            },
+            "light_theme": {
+                "on_background": "#000000",
+                "warning": "#FF0000",
+                "secondary_shadow": "#331500",
+                "background": "#FFFFFF",
+                "primary_shadow": "#CCE9FF",
+                "primary": "#0091ff",
+                "secondary": "#EE6600",
+                "text_title": "#181818",
+                "text_body": "#4C4C4C",
+                "on_secondary": "#000000",
+                "shadow": "#F2F2F2",
+                "shadow_2": "#BCBCBC",
+                "on_primary": "#FFFFFF"
+            }
+        },
+        "brightness": 32768,
+        "dark_mode": true
+    }
+}
