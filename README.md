@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/anubis_axis_logo.webp" alt="Anubis Axis, by Seguridad Física" width="220" />
+<img src="docs/assets/anubis_axis_logo.webp" alt="Anubis Axis, by Seguridad Física" width="300" />
 
 # Anubis Axis
 [![MicroPython](https://img.shields.io/badge/MicroPython-1.28.0-2b2728?logo=micropython)](https://micropython.org/)
