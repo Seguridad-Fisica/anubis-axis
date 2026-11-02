@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/anubis_axis_logo.webp" alt="Anubis Axis, by Seguridad Física" width="300" />
+<img src="docs/assets/banner_anubis_axis.png" alt="Anubis Axis, High-precision dial reading doesn't have to be proprietary: the 100% open-source Digital Dial Magnifier (DDM). by Seguridad Física" width=100% />
 
 # Anubis Axis
 [![MicroPython](https://img.shields.io/badge/MicroPython-1.28.0-2b2728?logo=micropython)](https://micropython.org/)
@@ -18,7 +18,7 @@ Created for the locksport community and locksmithing professionals.
 ---
 
 <div align="center">
-  <img src="docs/assets/anubis_axis_set.webp" alt="Anubis Axis connected to a dial in a practice setup" width="600" />
+  <img src="docs/assets/anubis_axis_set.webp" alt="Anubis Axis connected to a dial in a practice setup" width=100% />
   <p><em>A tool to observe every turn of your dial.</em></p>
 </div>
 
